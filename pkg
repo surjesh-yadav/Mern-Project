@@ -1,0 +1,5 @@
+bcrypt == for user password hidden
+jsonwebtoken == token generater
+validator == email ke field me email hi aaye
+nodemailer == otp
+cookie-parser = store jsonwebtoken
